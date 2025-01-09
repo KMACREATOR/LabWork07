@@ -1,0 +1,10 @@
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe.config
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.pdb
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionLibrary.dll
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionLibrary.pdb
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.AssemblyReference.cache
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\obj\Debug\Reflecti.12E940B6.Up2Date
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.exe
+C:\Users\MK\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.pdb

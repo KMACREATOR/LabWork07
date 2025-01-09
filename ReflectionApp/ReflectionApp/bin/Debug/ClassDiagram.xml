@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Classes>
+  <Class Name="CommentAttribute">
+    <Property Name="Comment" Type="String" />
+    <Property Name="TypeId" Type="Object" />
+    <Method Name="get_Comment" ReturnType="String" />
+  </Class>
+  <Class Name="Animal" Comment="Abstract class representing an animal">
+    <Property Name="Country" Type="String" />
+    <Property Name="HideFromOtherAnimals" Type="Boolean" />
+    <Property Name="Name" Type="String" />
+    <Property Name="WhatAnimal" Type="eClassificationAnimal" />
+    <Method Name="get_Country" ReturnType="String" />
+    <Method Name="set_Country" ReturnType="Void" />
+    <Method Name="get_HideFromOtherAnimals" ReturnType="Boolean" />
+    <Method Name="set_HideFromOtherAnimals" ReturnType="Void" />
+    <Method Name="get_Name" ReturnType="String" />
+    <Method Name="set_Name" ReturnType="Void" />
+    <Method Name="get_WhatAnimal" ReturnType="eClassificationAnimal" />
+    <Method Name="set_WhatAnimal" ReturnType="Void" />
+    <Method Name="GetFavouriteFood" ReturnType="eFavoriteFood" />
+    <Method Name="SayHello" ReturnType="Void" />
+  </Class>
+  <Class Name="Cow" Comment="Class representing a cow">
+    <Property Name="Country" Type="String" />
+    <Property Name="HideFromOtherAnimals" Type="Boolean" />
+    <Property Name="Name" Type="String" />
+    <Property Name="WhatAnimal" Type="eClassificationAnimal" />
+    <Method Name="GetFavouriteFood" ReturnType="eFavoriteFood" />
+    <Method Name="SayHello" ReturnType="Void" />
+  </Class>
+  <Class Name="Lion" Comment="Class representing a lion">
+    <Property Name="Country" Type="String" />
+    <Property Name="HideFromOtherAnimals" Type="Boolean" />
+    <Property Name="Name" Type="String" />
+    <Property Name="WhatAnimal" Type="eClassificationAnimal" />
+    <Method Name="GetFavouriteFood" ReturnType="eFavoriteFood" />
+    <Method Name="SayHello" ReturnType="Void" />
+  </Class>
+  <Class Name="Pig" Comment="Class representing a pig">
+    <Property Name="Country" Type="String" />
+    <Property Name="HideFromOtherAnimals" Type="Boolean" />
+    <Property Name="Name" Type="String" />
+    <Property Name="WhatAnimal" Type="eClassificationAnimal" />
+    <Method Name="GetFavouriteFood" ReturnType="eFavoriteFood" />
+    <Method Name="SayHello" ReturnType="Void" />
+  </Class>
+</Classes>

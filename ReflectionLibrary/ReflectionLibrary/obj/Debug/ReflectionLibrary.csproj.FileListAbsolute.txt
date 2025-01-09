@@ -1,0 +1,6 @@
+C:\Users\MK\source\repos\ReflectionLibrary\ReflectionLibrary\bin\Debug\ReflectionLibrary.dll
+C:\Users\MK\source\repos\ReflectionLibrary\ReflectionLibrary\bin\Debug\ReflectionLibrary.pdb
+C:\Users\MK\source\repos\ReflectionLibrary\ReflectionLibrary\obj\Debug\ReflectionLibrary.csproj.AssemblyReference.cache
+C:\Users\MK\source\repos\ReflectionLibrary\ReflectionLibrary\obj\Debug\ReflectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MK\source\repos\ReflectionLibrary\ReflectionLibrary\obj\Debug\ReflectionLibrary.dll
+C:\Users\MK\source\repos\ReflectionLibrary\ReflectionLibrary\obj\Debug\ReflectionLibrary.pdb
